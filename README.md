@@ -33,7 +33,7 @@
 
 ## PROGRAM:
 ```python
-Developed by: Thirugnanamoorthi
+Developed by: Thirugnanamoorthi G
 Reg no : 212221230117
 import pandas as pd
 import numpy as np
